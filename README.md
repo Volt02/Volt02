@@ -1,19 +1,24 @@
-Hi there ���������, I'm Juan Cruz
+Hi there, I'm John Volter D. Manigbas
+About Me
 
-���About Me
-• ������ BSIT Student at Laguna State Polytechnic University
-• �� Currently learning Python, Flask, SQL, Flutter, and Dart
-• ������ Goal: To become a skilled Web and Mobile Application Developer
-• ������������ Interested in Software Development, Cloud Computing, and UI/UX Design
-������� Skills
-• Languages: Python, Dart, SQL
-• Frameworks/Tools: Flask, Flutter, Git, GitHub
-• Other: Database Management, Web Development Basics
-���� Current Projects
-• ��������� Learning Git and GitHub for version control
-• ��� Developing practice projects in Python and Flutter
-• � Creating small apps as portfolio projects
-������ Connect with Me
-• Email: juan.cruz@lspu.edu.ph
+• 🎓 BS Information Technology Student at Laguna State Polytechnic University
+• 📘 Currently learning React and Laravel
+• 🎯 Goal: To become a skilled Network Engineer
+• 💡 Interested in Networking
 
-� “Code, Learn, and Share.”
+Skills
+
+• Languages: Dart, Php, JavaScript
+• Frameworks/Tools: Flutter, Laravel, React
+• Other: Web development
+
+Current Projects
+
+• 🔧 Creating small apps as portfolio projects
+• 💻 Building E-commerse Website And Mobile Appication
+• 📱 Developing practice projects in React and Laravel
+
+Connect with Me
+
+• 📧 Email: manigbasjohnvolter@gmail.com
+• 🌐 Portfolio/LinkedIn/GitHub: https://github.com/Volt02
